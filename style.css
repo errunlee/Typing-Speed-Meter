@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+  margin:0;
+  padding:0;
+}
+.heading{
+  margin-bottom:25px;
+  font-weight:bolder;
+  color:#544f4f;
+  letter-spacing: 0.4px;
+}
+.toType{
+  padding:19px;
+  font-family:monospace;
+}
+.userInput{
+  width:35rem;
+  height: 65px;
+  font-size: 25px;
+  font-family: monospace;
+}
+
+.wrong-input{
+  color:red !important;
+  border: 2px solid red !important;
+}
+.d-flex .btn{
+  height: 58px;
+  align-self:flex-end;
+  width:50px;
+}
