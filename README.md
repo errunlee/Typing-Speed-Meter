@@ -1,3 +1,2 @@
 # Typing-Speed-Meter
-test your typing speed
-find the page at:
+find the page at: https://errunlee.github.io/Typing-Speed-Meter/
