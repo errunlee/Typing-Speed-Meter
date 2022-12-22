@@ -6,12 +6,7 @@ html, body {
   margin:0;
   padding:0;
 }
-.heading{
-  margin-bottom:25px;
-  font-weight:bolder;
-  color:#544f4f;
-  letter-spacing: 0.4px;
-}
+
 .toType{
   padding:19px;
   font-family:monospace;
